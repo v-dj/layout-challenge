@@ -38,7 +38,7 @@ _notez l'alignement entre l'aperçu de la carte et la position du background :ar
 
 ### Note
 
-Vous trouverez les images _tileable_ dans le dossier `images`  
+Vous trouverez les icons (.svg) et les images _tileable_ dans le dossier `images`  
 Celle des cercles par exemple :
 
 ![tile](images/tile-circle.png)
