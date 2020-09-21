@@ -43,4 +43,5 @@ Celle des cercles par exemple :
 
 ![tile](images/tile-circle.png)
 
-GO ! :checkered_flag:
+GO ! :checkered_flag:  
+(Ma version en [vidéo](https://www.dropbox.com/s/wy0pegyl9of34ai/pattern.mp4?raw=1))
